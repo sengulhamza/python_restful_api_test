@@ -20,8 +20,7 @@ python3 main.py
 Project License can be found [here](LICENSE).
 
 
-
 [license-badge]: https://img.shields.io/badge/License-Apache%202.0-blue.svg
 [madewithpython]: https://img.shields.io/badge/Made%20with-Python-1f425f.svg
-[latestcommit]: https://badgen.net/github/last-commit/sengulhamza/python_restful_api_test/
+[latestcommit]: https://img.shields.io/github/last-commit/sengulhamza/python_restful_api_test
 [latestrelease]: https://img.shields.io/github/v/release/sengulhamza/python_restful_api_test.svg
